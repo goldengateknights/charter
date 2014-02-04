@@ -88,9 +88,9 @@ The leadership body, known at the Council, is the governing body of the Golden G
 #### 6a Elected Council Positions
 Within the Council, there are at least 3 positions of additional responsibility and duties, in addition to regular duties as a member of Golden Gate Knights and of the Council. Aforementioned positions include, but not limited to:
 
-* *Council Head* - Also referred to as the Golden Gate Knights Leader, they oversee operations, training and  coordination of Golden Gate Knights members.
-* *Local Membership Officer (LMO)* - Works to maintain an active membership list and biographies.
-* *Treasurer/Finance* - Oversees any finances, donations, payments made or received by Golden Gate Knights to maintain transparency and any legal or other required documentation.
+* **Council Head** - Also referred to as the Golden Gate Knights Leader, they oversee operations, training and  coordination of Golden Gate Knights members.
+* **Local Membership Officer (LMO)** - Works to maintain an active membership list and biographies.
+* **Treasurer/Finance** - Oversees any finances, donations, payments made or received by Golden Gate Knights to maintain transparency and any legal or other required documentation.
 
 #### 6b Leadership Appointments
 Appointment to positions will be initially assigned by popular vote among the council based on the individual skills of the members. Initially Council  Treasurer, and one other position (TBD) will be up for a vote after one year. There after, council members serve in said position for a period of 1 year, or until they are replaced by one of three possible actions:
