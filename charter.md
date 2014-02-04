@@ -14,7 +14,7 @@ It is the vision of the Golden Gate Knights to promote a spirit of goodwill amon
 The Golden Gate Knights values every individual regardless of sex, race, religion, creed, nationality, sexual orientation or physical handicap. We value safety in rehearsal and performance for both our members and our audience. We value attention to high quality costumes that are safe for saber choreography. Finally, we value the charitable goals exemplified by Lucasfilm Ltd. by giving all we can to our community.
 
 5 Membership
-Membership is broken into several levels and is different from
+Membership is broken into several levels and is different from Member Ranks (Section 12).
 
 5.1 General Membership
 A General Members is anyone who is participating within the Golden Gate Knights group through our instructional classes or group gatherings. All members must abide by and adhere to all general requirements for membership.
@@ -27,7 +27,7 @@ A General Members is anyone who is participating within the Golden Gate Knights 
 
 5.1f All members must abide by the Code of Conduct (Section 7) during classes, online activities or at group events.
 
-5.1g In certain situations, it may be necessary for members of GGK to take drug tests in preparation for performances. Those found to be under the influence of narcotics may be barred from performing. Those found to be under the influence of illegal drugs without prescription will be banned for life.
+5.1g In certain situations, it may be necessary for members of Golden Gate Knights to take drug tests in preparation for performances. Those found to be under the influence of narcotics may be barred from performing. Those found to be under the influence of illegal drugs without prescription will be banned for life.
 
 5.1h Due to the close interaction between many fantasy organizations at various events, individuals facing disciplinary action from another fantasy organization will be required to have that issue resolved before their membership can be considered with the Golden Gate Knights.
 
@@ -54,11 +54,11 @@ Performance Members are those that rehearse and perform choreographed saber batt
 5.3e Performance Members that perform at an event may not change into Support Member attire during the same event. This is to preserve the 'Magic of the Myth' of the performance that the audience has just witnessed.
 
 5.4 Council Membership
-Council Members are senior knights who sit upon the governing body of GGK. They must read and sign off on a copy of the charter, which will be kept on file by the Local Membership Officer.
+Council Members are senior members who sit upon the governing body of Golden Gate Knights. They must read and sign off on a copy of the charter, which will be kept on file by the Local Membership Officer.
 
-5.4a Council members are responsible for the public appearance and leadership positions with in GGK.
+5.4a Council members are responsible for the public appearance and leadership positions with in Golden Gate Knights.
 
-5.4b Only a limited number of council members may be in place at any one time. At present this number is 12. This number may change based on the needs of GGK and by vote of the council.
+5.4b Only a limited number of council members may be in place at any one time. At present this number is 12. This number may change based on the needs of Golden Gate Knights and by vote of the council.
 
 5.4c Council members are responsible for arbitration between member disagreements, and as such, must exemplify the highest level of conduct.
 
@@ -68,29 +68,29 @@ Council Members are senior knights who sit upon the governing body of GGK. They 
 The leadership body, known at the Council, is the governing body of the Golden Gate Knights. These individuals are tasked with the oversight of all areas of the Golden Gate Knights. In addition, some leaders will also have specific areas that they will oversee. Decisions that affect the organization as a whole must be decided by a vote of no less than 51% of the current Council except in the cases listed below. All disciplinary actions taken by the leadership will follow the procedures set up Section 10 of the charter.
 
 6a Elected Council Positions
-Within the Council, there are at least 3 positions of additional responsibility and duties, in addition to regular duties as a member of GGK and of the Council. Aforementioned positions include, but not limited to:
-6.1 Council Head - Also referred to as the GGK Leader, they oversee operations, training and  coordination of GGK members.
+Within the Council, there are at least 3 positions of additional responsibility and duties, in addition to regular duties as a member of Golden Gate Knights and of the Council. Aforementioned positions include, but not limited to:
+6.1 Council Head - Also referred to as the Golden Gate Knights Leader, they oversee operations, training and  coordination of Golden Gate Knights members.
 6.2 Local Membership Officer (LMO) - Works to maintain an active membership list and biographies.
-6.3Treasurer/Finance - Oversees any finances, donations, payments made or received by GGK to maintain transparency and any legal or other required documentation.
+6.3Treasurer/Finance - Oversees any finances, donations, payments made or received by Golden Gate Knights to maintain transparency and any legal or other required documentation.
 
 6b Leadership Appointments
 Appointment to positions will be initially assigned by popular vote among the council based on the individual skills of the members. Initially Council  Treasurer, and one other position (TBD) will be up for a vote after one year. There after, council members serve in said position for a period of 1 year, or until they are replaced by one of three possible actions:
 1) They step down.
-2) By deed or conduct removed from GGK by a total unanimous vote, per Section 10.6 Disciplinary Actions.
-3) Are voted out by a no confidence vote of no less than 75% of the GGK council.
+2) By deed or conduct removed from Golden Gate Knights by a total unanimous vote, per Section 10.6 Disciplinary Actions.
+3) Are voted out by a no confidence vote of no less than 75% of the Golden Gate Knights council.
 
 6c After 1 year, the incumbent of a position elect to petition to maintain said position, presenting to the council why they should continue forward in that position. Likewise, if they decide not to continue to hold said position, new applicants must present to the council why they should be appointed to the position. They must be approved by  vote of the active council members. Such appointments are to last no longer than 1 year, whereupon the process is repeated.
 
-6d All council members will have, on file, a copy of the charter bearing their signature as record that they agree to abide by the charter and governance of the GGK council.
+6d All council members will have, on file, a copy of the charter bearing their signature as record that they agree to abide by the charter and governance of the Golden Gate Knights council.
 
 6e At any given time, should there be a need for additional council members, or should a vacancy occur, Knights in good standing may be nominated to sit upon the council. Such nominations should carry a 75% vote to be accepted, during said vote the nominating member may not vote.
 
 6.1 Council Head
-The chairman of the Council body, the council head coordinates and oversees all aspects of GGK.
+The chairman of the Council body, the council head coordinates and oversees all aspects of Golden Gate Knights.
 
 6.1a The council head may temporarily fill in for any position on the council with the exception of treasurer, which must always be held by a 2nd council member to avoid any conflicts of interest.
 
-6.1b The council head maintains an agenda for council meetings, allowing time for discussions, updates on events and concerns from GGK as a whole.
+6.1b The council head maintains an agenda for council meetings, allowing time for discussions, updates on events and concerns from Golden Gate Knights as a whole.
 
 6.1c The council head is required to attend no less than 90% of their local chapter's classes and events. If the council head cannot be present at a class, the LMO must be in attendance, or in extreme circumstances, a designated representative.
 
@@ -99,7 +99,7 @@ Local Membership Officers (LMO's) will review all applications for membership an
 
 6.2a LMO's will also cross reference applying members with other local fantasy organizations including, but not limited to, the 501st Legion and the Rebel Legion. This is done to ensure that the applicant is in good standing within the fantasy costuming community and will not inhibit the Golden Gate Knights from performing at any venue.
 
-6.2b LMO’s also maintain all records of all members – including contact information, signed charter copies, council paperwork, liability waivers, and performance history of the GGK chapter they represent. Said records will be available for viewing by any council member and any others the member in question approves or as required by law.
+6.2b LMO’s also maintain all records of all members – including contact information, signed charter copies, council paperwork, liability waivers, and performance history of the Golden Gate Knights chapter they represent. Said records will be available for viewing by any council member and any others the member in question approves or as required by law.
 
 6.2c LMO will be responsible for appointing the Costume Judge and a Public Relations Representative for their local chapter. The LMO will be ultimately responsible for the actions and decisions of their appointments.
 
@@ -108,9 +108,9 @@ Local Membership Officers (LMO's) will review all applications for membership an
 6.3 Treasurer
 The treasurer maintains the financial records for the local council. These records exist in order to provide transparency,  any legal requirements that may arise for the group, as well as for any necessary supplies, or repairs to critical equipment.
 
-6.3a The treasurer maintains all records regarding charitable works or donations, as well as any necessary tax documentation for GGK.
+6.3a The treasurer maintains all records regarding charitable works or donations, as well as any necessary tax documentation for Golden Gate Knights.
 
-6.3b The responsibilities of the treasurer include seeing to the payment for class space, legal fees and any other disbursement of finances on behalf of GGK.
+6.3b The responsibilities of the treasurer include seeing to the payment for class space, legal fees and any other disbursement of finances on behalf of Golden Gate Knights.
 
 6.3c The treasurer shall not vote on any matter that involves the disbursement of funds, unless that vote shall be the tie breaking vote. This is to avoid any possibility of conflict of interest.
 
