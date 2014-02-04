@@ -309,6 +309,7 @@ Any member may suggest an event to the Council.
 
 ### 11.2 Minimum Event Information
 Below is the minimum information for an event that is required with a submission:
+
 1. Event host/sponsor information
 2. Location including address
 3. Date and times
