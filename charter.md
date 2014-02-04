@@ -250,7 +250,7 @@ All Show costumes must be reviewed and approved by a Golden Gate Knights designa
 ### 9.2 Stunt Costumes
 Stunt costumes are those meant to recreate the costumes as seen in the films or expanded universe while allowing for safety and freedom of movement. Costumes of an original design must be of the same caliber.
 
-#### 9.2a
+#### 9.2a Costume Safety Requirements
 All Stunt costumes must be reviewed and approved prior to each performance by the designated Fight Director. Safety requirements will include, but may not be limited to the following:
 1. Material must allow for free movement of all joints, including the torso.
 2. All items must be secured to the costume to avoid falling off during performance.
@@ -260,10 +260,11 @@ All Stunt costumes must be reviewed and approved prior to each performance by th
 ### 9.3 Weapons
 All weapons should be inspected by a Golden Gate Knights Fight Director upon purchase or construction to ensure that they are of the appropriate design and will be safe to use. Performance members are encouraged to seek the guidance of the Fight Director prior to making a purchase to ensure that they are purchasing an appropriate weapon. All weapons to be used for an event must be reviewed by the Fight Director prior to the event.
 
-#### 9.3a
+#### 9.3a Blade Thickness
 Blade wall thickness shall be decided upon prior to the event. Every effort shall be made to be certain that blade wall thickness is uniform for all sabers used in the performance.
 
 #### 9.3b General Saber Guidelines
+Below is a list of general saber guidelines for all sabers used either for performances, training or costuming:
 1. Blade tips affixed securely.
 2. No or very little rattling.
 3. No sharp edges or dangerous parts.
