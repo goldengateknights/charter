@@ -88,9 +88,9 @@ The leadership body, known at the Council, is the governing body of the Golden G
 #### 6a Elected Council Positions
 Within the Council, there are at least 3 positions of additional responsibility and duties, in addition to regular duties as a member of Golden Gate Knights and of the Council. Aforementioned positions include, but not limited to:
 
-* Council Head - Also referred to as the Golden Gate Knights Leader, they oversee operations, training and  coordination of Golden Gate Knights members.
-* Local Membership Officer (LMO) - Works to maintain an active membership list and biographies.
-* Treasurer/Finance - Oversees any finances, donations, payments made or received by Golden Gate Knights to maintain transparency and any legal or other required documentation.
+* *Council Head* - Also referred to as the Golden Gate Knights Leader, they oversee operations, training and  coordination of Golden Gate Knights members.
+* *Local Membership Officer (LMO)* - Works to maintain an active membership list and biographies.
+* *Treasurer/Finance* - Oversees any finances, donations, payments made or received by Golden Gate Knights to maintain transparency and any legal or other required documentation.
 
 #### 6b Leadership Appointments
 Appointment to positions will be initially assigned by popular vote among the council based on the individual skills of the members. Initially Council  Treasurer, and one other position (TBD) will be up for a vote after one year. There after, council members serve in said position for a period of 1 year, or until they are replaced by one of three possible actions:
@@ -98,11 +98,14 @@ Appointment to positions will be initially assigned by popular vote among the co
 2. By deed or conduct removed from Golden Gate Knights by a total unanimous vote, per Section 10.6 Disciplinary Actions.
 3. Are voted out by a no confidence vote of no less than 75% of the Golden Gate Knights council.
 
-#### 6c After 1 year, the incumbent of a position elect to petition to maintain said position, presenting to the council why they should continue forward in that position. Likewise, if they decide not to continue to hold said position, new applicants must present to the council why they should be appointed to the position. They must be approved by  vote of the active council members. Such appointments are to last no longer than 1 year, whereupon the process is repeated.
+#### 6c
+After 1 year, the incumbent of a position elect to petition to maintain said position, presenting to the council why they should continue forward in that position. Likewise, if they decide not to continue to hold said position, new applicants must present to the council why they should be appointed to the position. They must be approved by  vote of the active council members. Such appointments are to last no longer than 1 year, whereupon the process is repeated.
 
-#### 6d All council members will have, on file, a copy of the charter bearing their signature as record that they agree to abide by the charter and governance of the Golden Gate Knights council.
+#### 6d
+All council members will have, on file, a copy of the charter bearing their signature as record that they agree to abide by the charter and governance of the Golden Gate Knights council.
 
-#### 6e At any given time, should there be a need for additional council members, or should a vacancy occur, Knights in good standing may be nominated to sit upon the council. Such nominations should carry a 75% vote to be accepted, during said vote the nominating member may not vote.
+#### 6e
+At any given time, should there be a need for additional council members, or should a vacancy occur, Knights in good standing may be nominated to sit upon the council. Such nominations should carry a 75% vote to be accepted, during said vote the nominating member may not vote.
 
 ### 6.1 Council Head
 The chairman of the Council body, the council head coordinates and oversees all aspects of Golden Gate Knights.
