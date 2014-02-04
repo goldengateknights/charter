@@ -40,7 +40,7 @@ Due to the close interaction between many fantasy organizations at various event
 Once membership is granted, all members must maintain a current email address with the Golden Gate Knights and their current contact information with the Local Membership Officer.
 
 ### 5.2 Support Membership
-Support Members are individuals primarily interested in supporting the events of the Golden Gate Knights; either in costume or behind the scenes in logistics. Support members do not perform choreographed saber combat at performances and events.
+Support Members are individuals primarily interested in supporting the Golden Gate Knights either in costume or behind the scenes in logistics. Support members do not perform choreographed saber combat at performances and events.
 
 #### 5.2a
 Support members that wish to wear their costume must have their costume approved by a Golden Gate Knights authorized Costume Judge prior to the event either in person or through photographs. Only Support Members with approved costumes may attend official events in costume.
