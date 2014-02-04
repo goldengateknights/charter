@@ -85,24 +85,24 @@ Further duties of council members will are detailed under section 6 (Leadership 
 ## 6 Leadership Body
 The leadership body, known at the Council, is the governing body of the Golden Gate Knights. These individuals are tasked with the oversight of all areas of the Golden Gate Knights. In addition, some leaders will also have specific areas that they will oversee. Decisions that affect the organization as a whole must be decided by a vote of no less than 51% of the current Council except in the cases listed below. All disciplinary actions taken by the leadership will follow the procedures set up Section 10 of the charter.
 
-### 6a Elected Council Positions
+#### 6a Elected Council Positions
 Within the Council, there are at least 3 positions of additional responsibility and duties, in addition to regular duties as a member of Golden Gate Knights and of the Council. Aforementioned positions include, but not limited to:
 
-6.1 Council Head - Also referred to as the Golden Gate Knights Leader, they oversee operations, training and  coordination of Golden Gate Knights members.
-6.2 Local Membership Officer (LMO) - Works to maintain an active membership list and biographies.
-6.3Treasurer/Finance - Oversees any finances, donations, payments made or received by Golden Gate Knights to maintain transparency and any legal or other required documentation.
+* Council Head - Also referred to as the Golden Gate Knights Leader, they oversee operations, training and  coordination of Golden Gate Knights members.
+* Local Membership Officer (LMO) - Works to maintain an active membership list and biographies.
+* Treasurer/Finance - Oversees any finances, donations, payments made or received by Golden Gate Knights to maintain transparency and any legal or other required documentation.
 
-6b Leadership Appointments
+#### 6b Leadership Appointments
 Appointment to positions will be initially assigned by popular vote among the council based on the individual skills of the members. Initially Council  Treasurer, and one other position (TBD) will be up for a vote after one year. There after, council members serve in said position for a period of 1 year, or until they are replaced by one of three possible actions:
-1) They step down.
-2) By deed or conduct removed from Golden Gate Knights by a total unanimous vote, per Section 10.6 Disciplinary Actions.
-3) Are voted out by a no confidence vote of no less than 75% of the Golden Gate Knights council.
+1. They step down.
+2. By deed or conduct removed from Golden Gate Knights by a total unanimous vote, per Section 10.6 Disciplinary Actions.
+3. Are voted out by a no confidence vote of no less than 75% of the Golden Gate Knights council.
 
-6c After 1 year, the incumbent of a position elect to petition to maintain said position, presenting to the council why they should continue forward in that position. Likewise, if they decide not to continue to hold said position, new applicants must present to the council why they should be appointed to the position. They must be approved by  vote of the active council members. Such appointments are to last no longer than 1 year, whereupon the process is repeated.
+#### 6c After 1 year, the incumbent of a position elect to petition to maintain said position, presenting to the council why they should continue forward in that position. Likewise, if they decide not to continue to hold said position, new applicants must present to the council why they should be appointed to the position. They must be approved by  vote of the active council members. Such appointments are to last no longer than 1 year, whereupon the process is repeated.
 
-6d All council members will have, on file, a copy of the charter bearing their signature as record that they agree to abide by the charter and governance of the Golden Gate Knights council.
+#### 6d All council members will have, on file, a copy of the charter bearing their signature as record that they agree to abide by the charter and governance of the Golden Gate Knights council.
 
-6e At any given time, should there be a need for additional council members, or should a vacancy occur, Knights in good standing may be nominated to sit upon the council. Such nominations should carry a 75% vote to be accepted, during said vote the nominating member may not vote.
+#### 6e At any given time, should there be a need for additional council members, or should a vacancy occur, Knights in good standing may be nominated to sit upon the council. Such nominations should carry a 75% vote to be accepted, during said vote the nominating member may not vote.
 
 ### 6.1 Council Head
 The chairman of the Council body, the council head coordinates and oversees all aspects of Golden Gate Knights.
@@ -117,7 +117,7 @@ The council head maintains an agenda for council meetings, allowing time for dis
 The council head is required to attend no less than 90% of their local chapter's classes and events. If the council head cannot be present at a class, the LMO must be in attendance, or in extreme circumstances, a designated representative.
 
 ### 6.2 Local Membership Officers
-Local Membership Officers (LMO's) will review all applications for membership and maintain such records in a digital copy. All hard copies of membership applications will be converted to digital format at the earliest time possible.
+A Local Membership Officer (LMO) will review all applications for membership and maintain such records in a digital copy. All hard copies of membership applications will be converted to digital format at the earliest time possible.
 
 #### 6.2a
 LMO's will also cross reference applying members with other local fantasy organizations including, but not limited to, the 501st Legion and the Rebel Legion. This is done to ensure that the applicant is in good standing within the fantasy costuming community and will not inhibit the Golden Gate Knights from performing at any venue.
@@ -260,7 +260,7 @@ All weapons should be inspected by a Golden Gate Knights Fight Director upon pur
 #### 9.3a
 Blade wall thickness shall be decided upon prior to the event. Every effort shall be made to be certain that blade wall thickness is uniform for all sabers used in the performance.
 
-#### 9.3b General Saber guidelines:
+#### 9.3b General Saber Guidelines
 1. Blade tips affixed securely.
 2. No or very little rattling.
 3. No sharp edges or dangerous parts.
@@ -269,7 +269,7 @@ Blade wall thickness shall be decided upon prior to the event. Every effort shal
 6. Blade type is consistent for the event or class.
 7. Switches and recharge ports should be recessed, though this is not a requirement.
 8. Weapons should be an appropriate weight for the wielder and easily controllable for choreography.
-9. Though not a requirement, it is highly recommended for performance sabers to have sound and a “Flash on Clash” feature.
+9. It is recommended for performance sabers to have sound and a “Flash on Clash” feature.
 
 #### 9.3c
 Further safety standards will be at the discretion of the Fight Director for a given event. For example, saber staffs could pose a safety hazard in some cases.
@@ -301,7 +301,8 @@ All Golden Gate Knights events will go through an approval process with the Coun
 ### 11.1
 Any member may suggest an event to the Council.
 
-### 11.2 Minimum event information required for submission:
+### 11.2 Minimum Event Information
+Below is the minimum information for an event that is required with a submission:
 1. Event host/sponsor information
 2. Location including address
 3. Date and times
@@ -336,13 +337,13 @@ Upon accepting the criteria for an event, appropriate members will be asked to v
 ## 12 Member Ranks
 There will be four basic ranks amongst all members based upon skill level and merit. These are a separate progression from the roles of Support Membership, Performance Membership, and Council Membership. These ranks are as follows:
 
-### 12.1 Initiate Requirements
+### 12.1 Initiate
 The rank of initiate is reserved to anyone who is participating within the Golden Gate Knights group through our instructional classes. All Initiates must meet these requirements:
 
 #### 12.1a
 Must meet all General Membership requirements (Section 5.1).
 
-### 12.2 Apprentice Requirements
+### 12.2 Apprentice
 
 #### 12.2a
 Show understanding of the basics of the stage combat choreography system used by the Golden Gate Knights.
@@ -353,7 +354,7 @@ Approved by at least 2 members with the rank of Knight.
 #### 12.2c
 Attend classes regularly.
 
-### 12.3 Knight Requirements
+### 12.3 Knight
 
 #### 12.3a
 Show advanced understanding of the stage combat choreography system used by the Golden Gate Knights.
