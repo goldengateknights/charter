@@ -1,4 +1,3 @@
-
 # Golden Gate Knights Charter
 
 ## 1 Introduction
@@ -94,6 +93,7 @@ Within the Council, there are at least 3 positions of additional responsibility 
 
 #### 6b Leadership Appointments
 Appointment to positions will be initially assigned by popular vote among the council based on the individual skills of the members. Initially Council  Treasurer, and one other position (TBD) will be up for a vote after one year. There after, council members serve in said position for a period of 1 year, or until they are replaced by one of three possible actions:
+
 1. They step down.
 2. By deed or conduct removed from Golden Gate Knights by a total unanimous vote, per Section 10.6 Disciplinary Actions.
 3. Are voted out by a no confidence vote of no less than 75% of the Golden Gate Knights council.
@@ -252,6 +252,7 @@ Stunt costumes are those meant to recreate the costumes as seen in the films or 
 
 #### 9.2a Costume Safety Requirements
 All Stunt costumes must be reviewed and approved prior to each performance by the designated Fight Director. Safety requirements will include, but may not be limited to the following:
+
 1. Material must allow for free movement of all joints, including the torso.
 2. All items must be secured to the costume to avoid falling off during performance.
 3. Items that detach easily and are not necessary for the performance must be removed.
@@ -265,6 +266,7 @@ Blade wall thickness shall be decided upon prior to the event. Every effort shal
 
 #### 9.3b General Saber Guidelines
 Below is a list of general saber guidelines for all sabers used either for performances, training or costuming:
+
 1. Blade tips affixed securely.
 2. No or very little rattling.
 3. No sharp edges or dangerous parts.
