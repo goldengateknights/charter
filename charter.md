@@ -17,7 +17,7 @@ The Golden Gate Knights values every individual regardless of sex, race, religio
 Membership is broken into several levels and is different from Member Ranks (Section 12).
 
 5.1 General Membership
-A General Members is anyone who is participating within the Golden Gate Knights group through our instructional classes or group gatherings. All members must abide by and adhere to all general requirements for membership.
+A General Member is anyone who is participating within the Golden Gate Knights group through our instructional classes or group gatherings. All members must abide by and adhere to all general requirements for membership.
 
 5.1a The Golden Gate Knights will not discriminate membership based on sex, race, religion, creed, nationality, sexual orientation, or physical handicap.
 
@@ -289,7 +289,7 @@ The rank of initiate is reserved to anyone who is participating within the Golde
 12.3f Assist in the instruction of classes as per the needs of the class instructor.
 
 13 Performance Roles
-For any performance or event, there are several roles that need to be fulfilled. Performance roles can be filled by anyone who is considered a part of the Performance membership or by designation of the  LMO.
+For any performance or event, there are several roles that need to be fulfilled. Performance roles can be filled by anyone who is considered a part of the Performance membership or by designation of the LMO.
 
 13.1 Fight Director
 The Fight Director must be present and responsible for the performance choreography of any event.
